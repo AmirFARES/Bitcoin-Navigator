@@ -26,7 +26,7 @@ Bitcoin Navigator is tailored for crypto enthusiasts looking to understand marke
 
 To ensure data accuracy, the dashboard relies on Bitcoin price data from the trusted platform [Investing.com](https://www.investing.com/). Key datasets include:
 
-- **[Historical Daily Data (2024 – 2025)](https://github.com/AmirFARES/Bitcoin-Navigator/blob/main/data/Bitcoin)**: Offers a comprehensive view of Bitcoin’s market behavior.
+- **[Historical Daily Data (2024 – 2025)](https://github.com/AmirFARES/Bitcoin-Navigator/blob/main/data/Bitcoin%20Historical%20Data%202024.csv)**: Offers a comprehensive view of Bitcoin’s market behavior.
 
 ## Methodology 🚀
 
@@ -64,7 +64,7 @@ Further enhancements could include integrating additional datasets, incorporatin
 
 ## Connect with Me 📫
 
-For questions, collaborations, or feedback, feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/amir-f) or check out more of my projects on [GitHub](https://github.com/AmirFARES).
+For questions, collaborations, or feedback, feel free to reach out! Connect with me on [LinkedIn](https://www.linkedin.com/in/amir-fares-pro) or check out more of my projects on [GitHub](https://github.com/AmirFARES).
 
 ## Acknowledgments 🙏
 
